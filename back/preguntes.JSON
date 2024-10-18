@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "pregunta": "Quina marca utilitza el lema 'Just Do It'?",
+    "respostes": [
+      {
+        "id": 1,
+        "etiqueta": "Nike"
+      },
+      {
+        "id": 2,
+        "etiqueta": "Adidas"
+      },
+      {
+        "id": 3,
+        "etiqueta": "Puma"
+      },
+      {
+        "id": 4,
+        "etiqueta": "Reebok"
+      }
+    ],
+    "resposta_correcta": 1,
+    "imatge": "https://img.freepik.com/premium-vector/just-it-creative-lettering-t-shirt-design_502874-675.jpg"
+  },
+  {
+    "id": 2,
+    "pregunta": "Quina marca és coneguda pel seu logotip de 'swoosh'?",
+    "respostes": [
+      {
+        "id": 1,
+        "etiqueta": "Nike"
+      },
+      {
+        "id": 2,
+        "etiqueta": "Adidas"
+      },
+      {
+        "id": 3,
+        "etiqueta": "Puma"
+      },
+      {
+        "id": 4,
+        "etiqueta": "Reebok"
+      }
+    ],
+    "resposta_correcta": 1,
+    "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdOTMOMLww3o-lm53BIrxENXJCaRVgTNg7OQ&s"
+  },
+  {
+    "id": 3,
+    "pregunta": "Quina marca és coneguda per les seves tres ratlles?",
+    "respostes": [
+      {
+        "id": 1,
+        "etiqueta": "Nike"
+      },
+      {
+        "id": 2,
+        "etiqueta": "Adidas"
+      },
+      {
+        "id": 3,
+        "etiqueta": "Puma"
+      },
+      {
+        "id": 4,
+        "etiqueta": "Reebok"
+      }
+    ],
+    "resposta_correcta": 2,
+    "imatge": "https://www.proto.pl/wp-content/uploads/2024/05/adidas_originals.png"
+  },
+  {
+    "id": 4,
+    "pregunta": "Quina marca és famosa per la seva tecnologia 'Boost'?",
+    "respostes": [
+      {
+        "id": 1,
+        "etiqueta": "Nike"
+      },
+      {
+        "id": 2,
+        "etiqueta": "Adidas"
+      },
+      {
+        "id": 3,
+        "etiqueta": "Puma"
+      },
+      {
+        "id": 4,
+        "etiqueta": "Reebok"
+      }
+    ],
+    "resposta_correcta": 2,
+    "imatge": "https://bizweb.dktcdn.net/100/413/756/articles/boost-fw21-boostday-intro-to-boost-day-masthead-us-d-221-789504.jpg?v=1634110566727"
+  },
+  {
+    "id": 5,
+    "pregunta": "Quina marca utilitza un logotip en forma de felí?",
+    "respostes": [
+      {
+        "id": 1,
+        "etiqueta": "Nike"
+      },
+      {
+        "id": 2,
+        "etiqueta": "Adidas"
+      },
+      {
+        "id": 3,
+        "etiqueta": "Puma"
+      },
+      {
+        "id": 4,
+        "etiqueta": "Reebok"
+      }
+    ],
+    "resposta_correcta": 3,
+    "imatge": "https://assets.turbologo.com/blog/es/2019/11/19132946/puma-logo-cover-958x575.png"
+  }
+]
